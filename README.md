@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project is a simple file folder browser built using ReactJS. It allows users to navigate through the file inside the folder just like user navigates in vs code or any other code editor
 
 ## How to setup the project
-1. Clone the repository using `git clone https://github.com/anuraga091/folder-file-browser`
+1. Clone the repository using `git clone https://github.com/anuraga091/folder-file-browser.git`
 2. Open in vs code or any other code editor
 3. Go inside the project in terminal
 4. Install the dependencies by running 'npm install'
