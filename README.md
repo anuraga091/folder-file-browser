@@ -12,4 +12,5 @@ This project is a simple file folder browser built using ReactJS. It allows user
 4. Install the dependencies by running 'npm install'
 5. Start the project by running 'npm start'
 6. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+7. Add/Edit any other file/folder in src/file-config.js following the same structure
 
